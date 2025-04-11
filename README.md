@@ -1,5 +1,8 @@
 📊 Sales Analysis Dashboard - Superstore
 Power BI Project by Sandhya Burje
+
+
+
 🧠 Objective
 This project aims to analyze sales performance, profit trends, and customer data using interactive Power BI dashboards. The goal is to extract insights that help businesses make better data-driven decisions.
 ## 📁 Dataset Overview
@@ -29,6 +32,8 @@ This project aims to analyze sales performance, profit trends, and customer data
 | Quantity       | Number of units sold                                           |
 | Discount       | Discount applied (0–1 scale)                                   |
 | Profit         | Net profit made from the sale                                  |
+
+
 🧪 Why This Dataset?
 Realistic: Mimics real-world retail/e-commerce data
 Rich & Multi-dimensional: Involves time, customer, region, sales, profit, and product information
