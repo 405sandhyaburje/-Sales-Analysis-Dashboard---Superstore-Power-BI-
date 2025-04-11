@@ -35,12 +35,16 @@ This project aims to analyze sales performance, profit trends, and customer data
 
 
 🧪 Why This Dataset?
+
 Realistic: Mimics real-world retail/e-commerce data
+
 Rich & Multi-dimensional: Involves time, customer, region, sales, profit, and product information
+
 Perfect for BI Tools: Enables creation of meaningful KPIs, visualizations, and dashboards
 
 
 📌 Key Features
+
 ✅ KPI Cards
 Displays total sales and comparison against profit goal & Quick insight with dynamic % change
 
