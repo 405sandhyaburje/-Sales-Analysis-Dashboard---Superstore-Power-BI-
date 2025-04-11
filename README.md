@@ -2,34 +2,33 @@
 Power BI Project by Sandhya Burje
 🧠 Objective
 This project aims to analyze sales performance, profit trends, and customer data using interactive Power BI dashboards. The goal is to extract insights that help businesses make better data-driven decisions.
-📁 Dataset
-- **Source:** Sample - Superstore dataset (public dataset provided by Tableau & used widely for business analytics practice)  
-- **Size:** Medium (~9,000+ rows)  
-- **Period Covered:** Orders from 2014 to 2017  
-- **Domain:** Retail and E-Commerce  
- 🧾 Dataset Columns Explained
-| Column Name      | Description                                                   |
-|------------------|---------------------------------------------------------------|
-| Row ID           | Unique identifier for each row                                |
-| Order ID         | Unique ID assigned to each customer order                     |
-| Order Date       | The date when the order was placed                             |
-| Ship Date        | The date when the order was shipped                            |
-| Ship Mode        | Shipping method (Standard, First Class, etc.)                 |
-| Customer ID      | Unique identifier for each customer                           |
-| Customer Name    | Name of the customer                                          |
-| Segment          | Customer type (Consumer, Corporate, Home Office)             |
-| Country, State   | Location of customer                                          |
-| Postal Code      | Area code used for location                                   |
-| Region           | Sales region (East, West, Central, South)                     |
-| Product ID       | Unique identifier for each product                            |
-| Category         | Product category (Furniture, Office Supplies, Technology)     |
-| Sub-Category     | Detailed product classification (e.g., Chairs, Phones)        |
-| Product Name     | Name of the product                                           |
-| Sales            | Total revenue from the sale                                   |
-| Quantity         | Number of units sold                                          |
-| Discount         | Discount applied (0–1 scale)                                  |
-| Profit           | Net profit made from the sale                                 |
-
+## 📁 Dataset Overview
+- **Source:** Sample - Superstore dataset (public dataset provided by Tableau & widely used for business analytics practice)
+- **Size:** Medium (~9,000+ rows)
+- **Period Covered:** Orders from 2014 to 2017
+- **Domain:** Retail and E-Commerce
+### 🧾 Dataset Columns Explained
+| Column Name     | Description                                                    |
+|----------------|----------------------------------------------------------------|
+| Row ID         | Unique identifier for each row                                 |
+| Order ID       | Unique ID assigned to each customer order                      |
+| Order Date     | The date when the order was placed                              |
+| Ship Date      | The date when the order was shipped                             |
+| Ship Mode      | Shipping method (Standard, First Class, etc.)                  |
+| Customer ID    | Unique identifier for each customer                            |
+| Customer Name  | Name of the customer                                           |
+| Segment        | Customer type (Consumer, Corporate, Home Office)              |
+| Country, State | Location of customer                                           |
+| Postal Code    | Area code used for location                                    |
+| Region         | Sales region (East, West, Central, South)                      |
+| Product ID     | Unique identifier for each product                             |
+| Category       | Product category (Furniture, Office Supplies, Technology)      |
+| Sub-Category   | Detailed product classification (e.g., Chairs, Phones)         |
+| Product Name   | Name of the product                                            |
+| Sales          | Total revenue from the sale                                    |
+| Quantity       | Number of units sold                                           |
+| Discount       | Discount applied (0–1 scale)                                   |
+| Profit         | Net profit made from the sale                                  |
 🧪 Why This Dataset?
 Realistic: Mimics real-world retail/e-commerce data
 Rich & Multi-dimensional: Involves time, customer, region, sales, profit, and product information
