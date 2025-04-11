@@ -38,26 +38,49 @@ This project aims to analyze sales performance, profit trends, and customer data
 Realistic: Mimics real-world retail/e-commerce data
 Rich & Multi-dimensional: Involves time, customer, region, sales, profit, and product information
 Perfect for BI Tools: Enables creation of meaningful KPIs, visualizations, and dashboards
+
+
 📌 Key Features
 ✅ KPI Cards
 Displays total sales and comparison against profit goal & Quick insight with dynamic % change
+
 ✅ Interactive Slicers
 Filter data by Region, Category, and Order Date & Makes the dashboard fully interactive and customizable
+
 ✅ Time-Series Analysis
 Line chart of Quantity Sold Over Time & Helps identify sales patterns and seasonality
+
 ✅ Top 10 Customers
 Stacked bar chart showing customers with the highest sales & Focused insights on revenue-driving users
+
 ✅ Custom Navigation Menu
 App-like navigation using buttons & Makes switching between KPI, trends, slicers, and customer visuals easy
+
+
 🎨 Design Choices
-Icons: Used for clear navigation | Layout: Consistent spacing and readability | Navigation: Added button-based navigation for user experience
+Icons: Used for clear navigation 
+
+Layout: Consistent spacing and readability 
+
+Navigation: Added button-based navigation for user experience
+
 📌 Tools Used
-Power BI Desktop | Google Slides (for presentation)
+
+Power BI Desktop 
+
+Google Slides (for presentation)
+
 📈 Insights Gained
+
 Sales performance exceeded profit goals by 600%+
+
 Certain customers contribute disproportionately to revenue
+
 Quantity sold shows periodic trends across months
+
 Filters help focus on regional and categorical sales behavior
+
 🔚 Conclusion
+
 A simple, effective Power BI dashboard that combines KPIs, time analysis, interactivity, and clean navigation—built to support real business decision-making.
 
